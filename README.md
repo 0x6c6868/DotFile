@@ -1,12 +1,5 @@
 # InitMyEnv
 
-快速初始化一些常用工作环境，防止每次重装系统或者换电脑都要配配配的。
-
-包含以下一些功能：
-
- - tmux环境配置
- - vim环境配置
-
-# TODO
-
-也许可以按照不同的系统进行初始化安装？
+try tap ./init.py and have a cup of coffee
+<br>
+ps:当然他现在可能还没法工作，哈哈哈
